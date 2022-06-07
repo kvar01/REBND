@@ -21,4 +21,3 @@ How-To:
 - You should be able to open any of the php files and view them as a website in your browser by clicking any of the php files in the directory.
 - When making a change to any of the files you can view how the changes you made looks in real time by saving the code and refreshing the file in your web browser.
 
-**Forgot to add database file to repository** will do so later today. 05/25/2022
